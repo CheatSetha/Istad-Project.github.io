@@ -1,0 +1,95 @@
+.HomeHeader{
+  height: 750px;
+
+
+  display: flex !important;
+  flex-direction: column !important;
+  justify-content: end;
+  
+}
+
+.Container{
+  max-width: 1200px !important;
+}
+.poster{
+  height: 450px;
+  background-image: url(./img/poster.png);
+  background-size: cover;
+  border-radius: 10px;
+}
+.navContainer{
+  background-color: rgb(0, 0, 0) !important;
+  height: fit-content !important;
+}
+.loginCard{
+
+  padding: 40px !important; 
+  
+
+}
+.loginPanelContainer{
+
+  width: 1200px;
+  height: 406px;
+  border-radius: 20px ;
+}
+.signupContainer{
+  width: 780px;
+  height: 800px;
+  padding-top: 50px;
+}
+.signUp{
+  background-color: #F8F3EF;
+}
+.cardArticle {
+  /* height: 465px !important; */
+  width: 266px;
+ 
+}
+.cardArticle h4{
+  overflow: hidden !important;
+  text-overflow: ellipsis !important;
+  white-space: nowrap; 
+  font-size: 20px;
+ 
+
+
+}
+.cardArticle p{
+  overflow: hidden !important;
+  text-overflow: ellipsis !important;
+  white-space: nowrap; 
+  font-size: 16px;
+ 
+
+}
+.articleHeader{
+margin-top: 150px !important;
+margin-bottom: 50px;
+}
+.topNavBar{
+  padding: 15px 0 !important;
+ 
+}
+.secondaryNav{
+  padding: 15px 0 !important;
+
+  /* margin-top: 85px !important; */
+}
+.card4{
+  height: 300px !important;
+}
+.card4 p{
+  overflow: hidden !important;
+  text-overflow: ellipsis !important;
+  white-space: nowrap; 
+  font-size: 16px;
+}
+.imgSignUp{
+  width: 600px;
+  height: 664px;
+  padding-top: 8px;
+}
+
+
+
